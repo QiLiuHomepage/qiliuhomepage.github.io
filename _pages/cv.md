@@ -52,12 +52,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service
 ======
 * Journal Reviewer: International Journal of Mechanical Sciences, Aerospace Science and Technology, Chaos Solitons and Fractals, ISA Transactions, Nonlinear Dynamics, Chaos, Physics of Fluids, Signal Processing, Theoretical and Applied Mechanics Letters, European Physical Journal Special Topics, Physica Scripta, International Journal of Aerospace Engineering, Mathematics, Machines
