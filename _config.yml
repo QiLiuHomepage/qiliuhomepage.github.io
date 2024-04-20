@@ -12,8 +12,8 @@ title                    : "Qi Liu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qi Liu"
 description              : &description "PhD"
-url                      : https://qiliuhomepage.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://qiliuhomepage.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # "" # the subpath of your site, e.g. "/blog"
 repository               : "QiLiuHomepage/qiliuhomepage.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,11 +21,11 @@ repository               : "QiLiuHomepage/qiliuhomepage.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "QiLiu-photo.png"
   name             : "Qi Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher"
-  location         : "Japan"
+  bio              : "Postdoctoral Researcher"
+  location         : "Tokyo, Japan"
   employer         : "Tokyo Institute of Technology"
   uri              : # URL
   email            : "liuqi1780280327@yahoo.com" 
