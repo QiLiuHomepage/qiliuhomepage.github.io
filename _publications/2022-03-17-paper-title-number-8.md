@@ -1,0 +1,10 @@
+---
+title: "Early warning of noise-induced catastrophic high-amplitude oscillations in an airfoil model"
+collection: publications
+permalink: /publication/2022-03-17-paper-title-number-8
+excerpt: 'Abstract: Noise-induced tipping from a low-amplitude oscillation state to a high-amplitude one is widespread in airfoil systems. Its occurrence may cause fatigue damage to the wing structure of an aircraft, which directly threatens its flight safety. Therefore, it is of utmost importance to predict the occurrence of noise-induced high-amplitude oscillations as the system parameters vary in airfoil systems. Taking a two-degrees-of-freedom airfoil model with random loadings as a prototype class of real systems, the prediction of noise-induced tipping from low-amplitude to high-amplitude oscillations is carried out in the present study. First, we analyze the effects of random fluctuations on the system response. The results show that noise-induced catastrophic high-amplitude oscillations take place before the bifurcation point of the corresponding deterministic airfoil model. Subsequently, the possibility that the low-amplitude oscillation state of the given noisy model jumps to the high-amplitude one is analyzed based on the escape probability. Then, the new concept of the high-risk region is defined. This is an efficient early warning indicator to approximately quantify the ranges of the system parameters where noise-induced high-amplitude oscillations may occur. Compared with the existing early warning indicators, this method is a non-local universal concept of stability. More importantly, it may provide theoretical guidance for aircraft designers to take some measures to avoid such catastrophic critical jump phenomena in practical engineering applications.'
+date: 2022-03-17
+venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+paperurl: 'https://doi.org/10.1063/5.0084796'
+citation: 'Ma J, Liu Q, Xu Y, et al. Early warning of noise-induced catastrophic high-amplitude oscillations in an airfoil model[J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2022, 32(3): 033119.'
+---
