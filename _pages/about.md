@@ -12,4 +12,4 @@ I am currently a postdoctoral researcher working with Prof. [Hiroya Nakao](http:
 
 I obtained a Bachelor's degree in Statistics from Northwestern Polytechnical University in 2016. Then, I received a Ph.D degree in Mathematics from Northwestern Polytechnical University in 2021.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Qi Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
