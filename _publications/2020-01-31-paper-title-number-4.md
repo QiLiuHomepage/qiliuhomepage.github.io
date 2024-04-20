@@ -1,7 +1,7 @@
 ---
 title: "Bistability and stochastic jumps in an airfoil system with viscoelastic material property and random fluctuations"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2020-01-31-paper-title-number-4
 excerpt: # 'This paper is about fixing template issue #693.'
 date: 2020-01-31
 venue: 'Communications in Nonlinear Science and Numerical Simulation'
