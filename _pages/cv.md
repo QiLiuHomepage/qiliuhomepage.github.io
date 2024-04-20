@@ -14,9 +14,9 @@ Education
 * 2016.09--2021.12, D.Sc. in Mathematics, Northwestern Polytechnical University (NPU), China
 * 2012.09--2016.07, B.Sc. in Statistics, Northwestern Polytechnical University (NPU), China
 
-Work experience
+Work Experiences
 ======
-* 2023.02--Present, Postdoctoral Research Fellow, Tokyo Institute of Technology, Japan
+* 2023.02--Present, Postdoctoral Researcher, Tokyo Institute of Technology, Japan
   * Supervisor: Prof. Hiroya Nakao
   
 Research Experiences
@@ -54,4 +54,4 @@ Talks
   
 Service
 ======
-* Journal Reviewer: International Journal of Mechanical Sciences, Aerospace Science and Technology, Chaos Solitons and Fractals, ISA Transactions, Nonlinear Dynamics, Chaos, Physics of Fluids, Signal Processing, Theoretical and Applied Mechanics Letters, European Physical Journal Special Topics, Physica Scripta, International Journal of Aerospace Engineering, Mathematics, Machines
+* **Journal Reviewer**: International Journal of Mechanical Sciences, Aerospace Science and Technology, Chaos Solitons and Fractals, ISA Transactions, Nonlinear Dynamics, Chaos, Physics of Fluids, Signal Processing, Theoretical and Applied Mechanics Letters, European Physical Journal Special Topics, Physica Scripta, International Journal of Aerospace Engineering, Mathematics, Machines
