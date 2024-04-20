@@ -25,8 +25,8 @@ author:
   name             : "Qi Liu"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
-  location         : "Tokyo, Japan"
-  employer         : "Tokyo Institute of Technology"
+  location         : "O-okayama 2-12-1, Tokyo 152-8552, Japan"
+  employer         : "Department of Systems and Control Engineering, School of Engineering, Tokyo Institute of Technology"
   uri              : # URL
   email            : "liuqi1780280327@yahoo.com" 
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "academicpages"
+  github           : "https://github.com/QiLiuHomepage"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
