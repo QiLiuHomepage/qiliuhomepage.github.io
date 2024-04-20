@@ -1,7 +1,7 @@
 ---
 title: "Complex nonlinear dynamics and vibration suppression of conceptual airfoil models: A state-of-the-art overview"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2022-06-10-paper-title-number-2
 excerpt: # 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-06-10
 venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
