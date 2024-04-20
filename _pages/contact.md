@@ -1,11 +1,13 @@
 ---
-title: "Contact Information"
-permalink: /
+layout: archive
+title: #"Contact Information"
+permalink: /contact/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /contact
-  - /contact.html
 ---
+
+{% include base_path %}
 
 Address
 =====
