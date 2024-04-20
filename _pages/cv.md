@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2016.09--2021.12, D.Sc.~in Mathematics, Northwestern Polytechnical University (NPU), China
-* 2012.09--2016.07, B.Sc.~in Statistics, Northwestern Polytechnical University (NPU), China
+* 2016.09--2021.12, D.Sc. in Mathematics, Northwestern Polytechnical University (NPU), China
+* 2012.09--2016.07, B.Sc. in Statistics, Northwestern Polytechnical University (NPU), China
 
 Work experience
 ======
