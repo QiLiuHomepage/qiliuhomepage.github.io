@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Contact Information"
-permalink: /contact/
+permalink: /
 author_profile: true
 redirect_from: 
-  - /contact/
+  - /contact
   - /contact.html
 ---
 
