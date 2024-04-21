@@ -1,0 +1,10 @@
+---
+title: "Rate-dependent bifurcation dodging in a thermoacoustic system driven by colored noise"
+collection: publications
+permalink: /publication/2021-03-19-paper-title-number-16
+excerpt: 'Abstract: Tipping in multistable systems occurs usually by varying the input slightly, resulting in the output switching to an often unsatisfactory state. This phenomenon is manifested in thermoacoustic systems. The thermoacoustic instability may lead to the disintegration of rocket engines, gas turbines and aeroengines, so it is necessary to design control measures for its suppression. It was speculated that such unwanted instability states may be dodged by changing the bifurcation parameters quickly enough, and compared with the white noise discussed in [1], colored noise with nonzero correlation time is more practical and important to the system. Thus, in this work, based on a fundamental mathematical model of thermoacoustic systems driven by colored noise, the corresponding Fokker–Planck–Kolmogorov equation of the amplitude is derived by using a stochastic averaging method. A transient dynamical behavior is identified through a probability density analysis. We find that both a relatively higher rate of change of parameters and change in the correlation time of the noise are beneficial to dodge thermoacoustic instability, while a relatively large noise intensity is a disadvantageous factor. More interestingly and importantly, power-law relationships between the maximum amplitude and the noise parameters are uncovered, and the probability of successfully dodging a thermoacoustic instability is calculated. These results serve as a guidance for the design of engines and to propose an effective control strategy, which is of great significance to aerospace-related fields.'
+date: 2021-03-19
+venue: 'Nonlinear Dynamics'
+paperurl: 'https://doi.org/10.1007/s11071-021-06368-5'
+citation: 'Zhang X, Xu Y, Liu Q, et al. Rate-dependent bifurcation dodging in a thermoacoustic system driven by colored noise[J]. Nonlinear Dynamics, 2021, 104: 2733-2743.'
+---

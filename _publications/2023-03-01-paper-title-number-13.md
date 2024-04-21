@@ -1,0 +1,10 @@
+---
+title: "Deep learning framework for solving Fokker-Planck equations with low-rank separation representation"
+collection: publications
+permalink: /publication/2023-03-01-paper-title-number-13
+excerpt: 'Abstract: An insightful deep learning framework is proposed to solve the well-known Fokker–Planck (FP) equations that quantify the evolution of the probability density function. It efficiently reduces the demand of training data in acquiring precise integrations of special normalization conditions via neural network (NN). Instead of all hypercubic discrete points, the inputs of each NN only require one-dimensional discrete data, and this also avoids the exponential increase in training data as the dimension increase. Without loss of generality, to solve a $d$-dimensional FP equation, $d$ NNs are employed and assembled into a low-rank separation representation. The FP equation, boundary conditions, and integral operators are then re-expressed in the sense of the separation representation. It enables the constructed loss function to perform simple vector operations, in that complicated $d$-dimensional operators are replaced by a set of one dimensional operators. A tractable strategy is presented for the selection of separation rank inspired by the potential function of the given system, although selecting an appropriate separation rank is still an open issue. Typical numerical examples reveal that the proposed algorithm is effective and superior for solving FP equations. The suggested framework could be applied and extended in various areas of engineering and applied sciences.'
+date: 2023-03-01
+venue: 'Engineering Applications of Artificial Intelligence'
+paperurl: 'https://doi.org/10.1016/j.engappai.2023.106036'
+citation: 'Zhang H, Xu Y, Liu Q, et al. Deep learning framework for solving Fokker–Planck equations with low-rank separation representation[J]. Engineering Applications of Artificial Intelligence, 2023, 121: 106036.'
+---

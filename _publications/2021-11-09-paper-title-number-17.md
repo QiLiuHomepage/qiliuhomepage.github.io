@@ -1,0 +1,10 @@
+---
+title: "Rate-dependent tipping and early warning in a thermoacoustic system under extreme operating environment"
+collection: publications
+permalink: /publication/2021-11-09-paper-title-number-17
+excerpt: 'Abstract: Thermoacoustic instability has been an important challenge in the development of high-performance combustion systems, as it can have catastrophic consequences. The process of a sudden change in the dynamical behavior of a thermoacoustic system from a low- to high-amplitude thermoacoustic instability actually entails as a tipping point phenomenon. It has been found that when rate-dependent parameters are considered, a tipping-delay phenomenon may arise, which helps in the control of undesirable states that give rise to thermoacoustic instabilities. This work aims at understanding rate-dependent tipping dynamics of the thermoacoustic system with both time-varying parameters and a non-Gaussian Lévy noise. The latter better describes the severe operating environment of such systems than simpler types of noise. Through numerical simulations, the tipping dynamical behavior is analyzed by considering the rate-dependent parameters coupled with the main parameters of the Lévy noise, including the stability and skewness indices and the noise intensity. In addition, we investigate the effectiveness of early warning indicators in rate-dependent systems under Lévy noise excitation and uncover a relationship between warning measures and the rate of change in the parameters. These results inform and enlighten the development and design of power combustion devices and also provide researchers and engineers with effective ideas to control thermoacoustic instability and the associated tipping dynamics.'
+date: 2021-11-09
+venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+paperurl: 'https://doi.org/10.1063/5.0071977'
+citation: 'Zhang X, Xu Y, Liu Q, et al. Rate-dependent tipping and early warning in a thermoacoustic system under extreme operating environment[J]. Chaos: An Interdisciplinary Journal of Nonlinear Science, 2021, 31(11): 113115.'
+---

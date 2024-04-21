@@ -1,0 +1,10 @@
+---
+title: "Rate-dependent tipping-delay phenomenon in a thermoacoustic system with colored noise"
+collection: publications
+permalink: /publication/2020-09-23-paper-title-number-18
+excerpt: 'Abstract: Tipping is a phenomenon in multistable systems where small changes in inputs cause huge changes in outputs. When the parameter varies within a certain time scale, the rate will affect the tipping behaviors. These behaviors are undesirable in thermoacoustic systems, which are widely used in aviation, power generation and other industries. Thus, this paper aims at considering the tipping behaviors of the thermoacoustic system with the time-varying parameters and the combined excitations of additive and multiplicative colored noises. Transient dynamical behaviors for the proposed thermoacoustic model are implemented through the reduced Fokker-Planck-Kolmogorov equation derived by a standard stochastic averaging method. Then, the tipping problems of the rate-dependent thermoacoustic systems with random fluctuations are studied by virtue of the obtained probability density functions. Our results show that the rate delays the value of the tipping parameter compared to the one with the quasi-steady assumption, which is called as a rate-dependent tipping-delay phenomenon. Besides, the influences of the initial values, the rate, the changing time of the parameters, and the correlation time of the noises on the rate-dependent tipping-delay phenomenon are analyzed in detail. These results are of great significance for research in related fields such as aviation and land gas turbines.'
+date: 2020-09-23
+venue: 'Science China Technological Sciences'
+paperurl: 'https://doi.org/10.1007/s11431-020-1589-x'
+citation: 'Zhang X Y, Xu Y, Liu Q, et al. Rate-dependent tipping-delay phenomenon in a thermoacoustic system with colored noise[J]. Science China Technological Sciences, 2020, 63(11): 2315-2327.'
+---

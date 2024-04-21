@@ -1,0 +1,10 @@
+---
+title: "Solving Fokker-Planck equations using deep KD-tree with a small amount of data"
+collection: publications
+permalink: /publication/2022-03-22-paper-title-number-14
+excerpt: 'Abstract: The Fokker–Planck (FP) equation can deterministically describe the evolution of the probability density function, which plays an extremely significant role in the fields of stochastic dynamics. Unfortunately, the limited samples that arise from the consideration of engineering practice are inevitable, which restricts the solving of the FP equation. Accordingly, in the present study, a super-DL-FP framework is established to solve the steady-state FP equation with a small amount of data, through combining the deep KD-tree and the DL-FP approach proposed in [Chaos 30, 013133 (2020)]. It should be emphasized that the normalization condition is of great importance and has to be considered in solving the steady-state FP equation. An appropriate integral estimation for the normalization condition under non-uniform meshing can effectively improve the precision of the solution, but it is still a challenging problem, especially for the case of small data. Thus, the so-called deep KD-tree method is innovatively proposed to estimate the normalized integral with a small random dataset. The main target is to obtain the appropriate discrete integral points and corresponding integral volumes by executing multiple KD-tree segmentation based on random data on the integral region. Several numerical experiments and comparisons are implemented to illustrate the superior performance of the super-DL-FP method. The obtained results indicate that the proposed algorithm can accomplish higher accuracy in the sense of lower cost than the well-known algorithms like center difference scheme, Chebyshev spectrum algorithm, and normalized flow approach.'
+date: 2022-03-22
+venue: 'Nonlinear Dynamics'
+paperurl: 'https://doi.org/10.1007/s11071-022-07361-2'
+citation: 'Zhang H, Xu Y, Liu Q, et al. Solving Fokker–Planck equations using deep KD-tree with a small amount of data[J]. Nonlinear Dynamics, 2022, 108(4): 4029-4043.'
+---
