@@ -6,6 +6,6 @@ excerpt: 'Abstract: The reliability of a pitch-plunge hypersonic airfoil in rand
 date: 2024-04-21
 venue: 'AIAA Journal'
 paperurl: 'https://doi.org/10.2514/1.J064048'
-citation: 'W.L. Guo, Y. Xu, Q. Liu, S. Lenci, G.N. Li, Reliability of hypersonic airfoil with freeplay and stochasticity
-via nonlinear energy sink, To appear in AIAA Journal, April 2024.'
+citation: 'Guo W, Xu Y, Liu Q, et al. Reliability of hypersonic airfoil with freeplay and stochasticity
+via nonlinear energy sink[J]. To appear in AIAA Journal, April 2024.'
 ---
