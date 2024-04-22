@@ -7,4 +7,7 @@ date: 2017-04-28
 venue: 'Nonlinear Dynamics'
 paperurl: 'https://doi.org/10.1007/s11071-017-3536-8'
 citation: 'Xu Y, Liu Q, Guo G, et al. Dynamical responses of airfoil models with harmonic excitation under uncertain disturbance[J]. Nonlinear Dynamics, 2017, 89: 1579-1590.'
+thumbnail: "ASR.png"
+bibtex: ASR.txt
+uri: ASR.pdf
 ---
