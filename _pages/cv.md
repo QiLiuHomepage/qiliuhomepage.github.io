@@ -45,6 +45,17 @@ Honors and Awards
 * The Sino-German (CSC-DAAD) Postdoc Scholarship (**only 50 people were selected**), 2021;
 * The 2022 **High Impact Paper Award** of the Science China Technological Sciences (as the third author, only 16 papers were selected out of about 230 articles), Science China Press, 2023;
 * The **First Prize** of the Sixth Postgraduate Innovation Achievement Award (as the first winner), Education Department of Shaanxi Provincial Government, 2022;
+* The First Prize of the 1st Postgraduate Forum of School of Mathematics and Statistics, NPU, 2022;
+* The **First Prize** of the Third Postgraduate Innovation Achievement Award (as the sixth winner, **only 1 item in Science in NPU**, Top 1%), Education Department of Shaanxi Provincial Government, 2017;
+* The First-Class Academic Scholarship of NPU (Doctor) (2 times, Top 10%), 2017, 2018;
+* The Outstanding Postgraduate of NPU (Doctor) (2 times, Top 10%), 2017, 2018;
+* The Second-Class Special Scholarship of Beijing Jingdiao, Beijing Jingdiao Group, 2016;
+* The Excellent Undergraduate Thesis of NPU (Top 5%), 2016;
+* The Second Prize of the Preliminary Round of the Fifth National University Mathematics Competition (Mathematics Category) (Top 1%), Chinese Mathematical Society, 2014;
+* The National Encouragement Scholarship for Undergraduate Students, China (Top 3%), 2013;
+* The Outstanding Student of NPU (Bachelor) (2 times, Top 5%), 2013, 2014;
+* The Second Prize of the Mathematical Modeling Competition of NPU (2 times, Top 5%), 2013, 2014;
+* The Third Prize of the Pure Mathematics Competition of NPU, 2013.
 
 Talks
 ======
@@ -54,4 +65,23 @@ Talks
   
 Service
 ======
-* **Journal Reviewer**: International Journal of Mechanical Sciences, Aerospace Science and Technology, Chaos Solitons and Fractals, ISA Transactions, Nonlinear Dynamics, Chaos, Physics of Fluids, Signal Processing, Theoretical and Applied Mechanics Letters, European Physical Journal Special Topics, Physica Scripta, International Journal of Aerospace Engineering, Mathematics, Machines
+**Journal Reviewer**
+* International Journal of Mechanical Sciences
+* Aerospace Science and Technology
+* Chaos Solitons and Fractals
+* ISA Transactions
+* Nonlinear Dynamics
+* Chaos
+* Physics of Fluids
+* Signal Processing
+* Theoretical and Applied Mechanics Letters
+* European Physical Journal Special Topics
+* Physica Scripta
+* International Journal of Aerospace Engineering
+* Mathematics
+* Machines
+
+Professional Skills
+======
+**Programming Language**: Matlab, Python, LATEX, C/C++, Fortran, Maple
+**Package or Framework**: NumPy, Matplotlib, SciPy, Seaborn, Tensorflow
