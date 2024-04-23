@@ -3,6 +3,9 @@ main:
   - title: "Home"
     url: /about/
 
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
@@ -20,6 +23,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Collaborators"
+    url: /collaborators/
 
   - title: "Contact"
     url: /contact/
