@@ -40,7 +40,7 @@ Publications
 
 Honors and Awards
 ======
-* The Outstanding Doctoral Dissertation Award of NPU (Top 3\%), April 2024;
+* The Outstanding Doctoral Dissertation Award of NPU (Top 3%), April 2024;
 * The **First Prize** of the Science and Technology Award of Shaanxi Society for Vibration Engineering (as the fourth winner), Shaanxi Society for Vibration Engineering, China, 2023;
 * The Sino-German (CSC-DAAD) Postdoc Scholarship (**only 50 people were selected**), 2021;
 * The 2022 **High Impact Paper Award** of the Science China Technological Sciences (as the third author, only 16 papers were selected out of about 230 articles), Science China Press, 2023;
