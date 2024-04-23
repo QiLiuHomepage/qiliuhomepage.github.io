@@ -11,8 +11,11 @@ redirect_from:
 
 Collaborators
 =====
-* **Prof. Yong Xu**, School of Mathematics and Statistics, Northwestern Polytechnical University, Xi’an 710072, China
-* **Prof. Yongge Li**, School of Mathematics and Statistics, Northwestern Polytechnical University, Xi’an 710072, China
-* **Dr. Weili Guo**, School of Mathematics and Statistics, Northwestern Polytechnical University, Xi’an 710072, China
-* **Dr. XiaolongWang**, School of Mathematics and Statistics, Shaanxi Normal University, Xi’an 710119, China
-* **Prof. Hiroya Nakao**, Department of Systems and Control Engineering, Tokyo Institute of Technology, Tokyo 152-8552, Japan
+* **Professor Yong Xu**, Northwestern Polytechnical University, China
+* **Associate Professor Yongge Li**, Northwestern Polytechnical University, China
+* **Dr. Weili Guo**, Northwestern Polytechnical University, China
+* **Dr. XiaolongWang**, Shaanxi Normal University, China
+* **Associate Professor Xiaoyu Zhang**, Qingdao University of Technology, China
+* **Associate Professor Jinzhong Ma**, Shanxi University, China
+* **Professor Hiroya Nakao**, Tokyo Institute of Technology, Japan
+* **Professor Juergen Kurths**, Potsdam Institute for Climate Impact Research (PIK) & Humboldt University of Berlin, Germany
