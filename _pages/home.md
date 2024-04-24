@@ -1,11 +1,11 @@
 ---
 # layout: archive
-permalink: /
+permalink: /home/
 title: #"Biography"
 excerpt: "Biography"
 author_profile: true
 redirect_from: 
-#  - /home
+  - /home
 #  - /home.html
 ---
 
