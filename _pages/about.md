@@ -9,7 +9,7 @@ redirect_from:
 ---
 Thank you for visiting my homepage!
 
-About me
+Biography
 =====
 I am currently a Postdoctoral Researcher working with [Prof. Hiroya Nakao](http://www.k.mei.titech.ac.jp/members_personal/nakao/index-e.html) at the [Nakao-Lab](http://www.k.mei.titech.ac.jp/), Department of Systems and Control Engineering, School of Engineering, Tokyo Institute of Technology, Japan.
 
