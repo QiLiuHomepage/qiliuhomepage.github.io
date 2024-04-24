@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /contact/
 title: #"About me"
 excerpt: "About me"
 author_profile: true
