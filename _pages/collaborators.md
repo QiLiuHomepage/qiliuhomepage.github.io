@@ -17,5 +17,5 @@ Collaborators
 * **Associate Prof. Yongge Li**, Northwestern Polytechnical University, China
 * **Associate Prof. Jinzhong Ma**, Shanxi University, China
 * **Associate Prof. Xiaoyu Zhang**, Qingdao University of Technology, China
-* **Dr. XiaolongWang**, Shaanxi Normal University, China
+* **Dr. Xiaolong Wang**, Shaanxi Normal University, China
 * **Dr. Riccardo Muolo**, Tokyo Institute of Technology, Japan
