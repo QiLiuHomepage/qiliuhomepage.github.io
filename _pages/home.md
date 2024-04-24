@@ -1,5 +1,5 @@
 ---
-# layout: archive
+layout: archive
 permalink: /home/
 title: #"Biography"
 excerpt: "Biography"
