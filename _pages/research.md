@@ -11,7 +11,8 @@ redirect_from:
 
 Field of Study
 =====
-**Nonlinear and Stochastic Dynamics**
+
+<font size=12>**Nonlinear and Stochastic Dynamics**</font>
 
 *Keywords*: Nonlinear Dynamics / Stochastic Dynamics / Nonlinear Oscillation / Random Vibration and Control / Approximated Theory / Machine Learning / Viscoelasticity
 
