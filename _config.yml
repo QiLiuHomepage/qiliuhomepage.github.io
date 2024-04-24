@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qi Liu's Personal Homepage"
+title                    : "Qi Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Qi Liu"
 description              : &description "personal description"
