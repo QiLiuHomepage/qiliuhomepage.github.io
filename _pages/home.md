@@ -1,12 +1,11 @@
 ---
 layout: archive
-permalink: /about/
+permalink: /home/
 title: #"About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /home
-#  - /about.html
 ---
 
 Thank you for visiting my homepage!
