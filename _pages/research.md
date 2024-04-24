@@ -13,4 +13,11 @@ Field of Study
 =====
 **Nonlinear and Stochastic Dynamics**
 
-Keywords: Nonlinear Dynamics / Stochastic Dynamics / Nonlinear Oscillation / Random Vibration and Control / Approximated Theory / Machine Learning / Viscoelasticity
+*Keywords*: Nonlinear Dynamics / Stochastic Dynamics / Nonlinear Oscillation / Random Vibration and Control / Approximated Theory / Machine Learning / Viscoelasticity
+
+Current Research Subjects
+=====
+* Stochasticity and viscoelasticity description for accurate modeling of mechanical systems.
+* Noise-induced complex dynamic behaviors of mechanical systems.
+* Control design for vibration suppression of mechanical systems.
+* Data-driven parameter estimation and solution of mechanical systems.
