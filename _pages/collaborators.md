@@ -11,11 +11,11 @@ redirect_from:
 
 Collaborators
 =====
-* **Professor Yong Xu**, Northwestern Polytechnical University, China
-* **Associate Professor Yongge Li**, Northwestern Polytechnical University, China
-* **Dr. Weili Guo**, Northwestern Polytechnical University, China
+* **Prof. Hiroya Nakao**, Tokyo Institute of Technology, Japan
+* **Prof. Yong Xu**, Northwestern Polytechnical University, China
+* **Prof. Juergen Kurths**, Potsdam Institute for Climate Impact Research (PIK) & Humboldt University of Berlin, Germany
+* **Associate Prof. Yongge Li**, Northwestern Polytechnical University, China
+* **Associate Prof. Jinzhong Ma**, Shanxi University, China
+* **Associate Prof. Xiaoyu Zhang**, Qingdao University of Technology, China
 * **Dr. XiaolongWang**, Shaanxi Normal University, China
-* **Associate Professor Xiaoyu Zhang**, Qingdao University of Technology, China
-* **Associate Professor Jinzhong Ma**, Shanxi University, China
-* **Professor Hiroya Nakao**, Tokyo Institute of Technology, Japan
-* **Professor Juergen Kurths**, Potsdam Institute for Climate Impact Research (PIK) & Humboldt University of Berlin, Germany
+* **Dr. Riccardo Muolo**, Tokyo Institute of Technology, Japan
