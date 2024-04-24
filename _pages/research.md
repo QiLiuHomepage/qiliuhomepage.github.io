@@ -16,7 +16,7 @@ Field of Study
 * **Fluid-Structure Interaction Phenomena** <br/>
 *Keywords*: Conceptual Airfoil Models / Aeroelasticity / Flutter Prediction and Suppression / Reliability Design
 
-Current Research Subjects
+Research Subjects
 =====
 * Stochasticity quantification for accurate modeling of mechanical systems.
 * Noise-induced complex dynamic behaviors of mechanical systems.
