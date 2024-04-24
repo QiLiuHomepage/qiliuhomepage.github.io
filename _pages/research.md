@@ -17,7 +17,7 @@ Field of Study
 
 Current Research Subjects
 =====
-* Stochasticity and viscoelasticity description for accurate modeling of mechanical systems.
+* Stochasticity quantification for accurate modeling of mechanical systems.
 * Noise-induced complex dynamic behaviors of mechanical systems.
 * Control design for vibration suppression of mechanical systems.
 * Data-driven parameter estimation and solution of mechanical systems.
