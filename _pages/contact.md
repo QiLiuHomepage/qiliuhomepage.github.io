@@ -11,9 +11,9 @@ redirect_from:
 
 Address
 =====
-Department of Systems and Control Engineering <br/>
-School of Engineering <br/>
-Tokyo Institute of Technology <br/>
+Department of Systems and Control Engineering, <br/>
+School of Engineering, <br/>
+Tokyo Institute of Technology, <br/>
 O-okayama 2-12-1-W8-16, Tokyo 152-8552, Japan
 
 Contact
