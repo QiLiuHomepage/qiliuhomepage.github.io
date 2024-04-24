@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Thank you for visiting my homepage!
 
 Biography
