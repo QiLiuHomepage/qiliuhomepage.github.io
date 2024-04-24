@@ -5,8 +5,8 @@ title: #"Biography"
 excerpt: "Biography"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /home
+#  - /home.html
 ---
 
 Thank you for visiting my homepage!
