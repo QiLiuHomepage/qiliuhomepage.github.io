@@ -1,6 +1,6 @@
 ---
 # layout: archive
-permalink: /home/
+permalink: /
 title: #"Biography"
 excerpt: "Biography"
 author_profile: true
