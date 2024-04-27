@@ -26,7 +26,8 @@ redirect_from:
   * Supervisor: Prof. Juergen Kurths
 
 ## Research Interests
-Applied Mathematics, Nonlinear Dynamics, Stochastic Dynamics, Random Vibration and Control, Bifurcation and Chaos, Approximate Methods, Data-Driven Techniques, Machine Learning
+Applied Mathematics, Nonlinear Dynamics, Stochastic Dynamics, Random Vibration and Control, <br/>
+Bifurcation and Chaos, Approximate Methods, Data-Driven Techniques, Machine Learning
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
