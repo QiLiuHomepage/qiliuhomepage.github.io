@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Collaborators
-=====
+## Collaborators
+
 * **Prof. Hiroya Nakao**, Tokyo Institute of Technology, Japan
 * **Prof. Yong Xu**, Northwestern Polytechnical University, China
 * **Prof. Juergen Kurths**, Potsdam Institute for Climate Impact Research (PIK) & Humboldt University of Berlin, Germany
