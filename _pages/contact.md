@@ -7,6 +7,8 @@ redirect_from:
   - /contact
 ---
 
+{% include base_path %}
+
 Contact
 =====
 E-mail: liuqi1780280327@yahoo.com; qiliumath@163.com
