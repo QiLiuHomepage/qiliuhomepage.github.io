@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Field of Study
-* **Nonlinear and Stochastic Dynamics** <br/>
+- **Nonlinear and Stochastic Dynamics** <br/>
 *Keywords*: Nonlinear Dynamics / Stochastic Dynamics / Nonlinear Oscillation / Random Vibration and Control / Approximated Theory / Machine Learning / Viscoelasticity
-* **Fluid-Structure Interaction Phenomena** <br/>
+- **Fluid-Structure Interaction Phenomena** <br/>
 *Keywords*: Conceptual Airfoil Models / Aeroelasticity / Flutter Prediction and Suppression / Reliability Design
 
 ## Research Subjects
