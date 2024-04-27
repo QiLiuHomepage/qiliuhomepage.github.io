@@ -11,7 +11,6 @@ redirect_from:
 
 <br/>
 Thank you for visiting my homepage! <br/>
-欢迎访问我的个人主页！
 <br/>
 
 ## Biography
