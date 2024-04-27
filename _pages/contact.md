@@ -9,12 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Contact
-=====
+## Contact
 E-mail: liuqi1780280327@yahoo.com; qiliumath@163.com
 
-Address
-=====
+## Address
 Department of Systems and Control Engineering, <br/>
 School of Engineering, <br/>
 Tokyo Institute of Technology, <br/>
