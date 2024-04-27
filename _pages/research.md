@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Field of Study
+## Fields of Study
 * **Nonlinear and Stochastic Dynamics** <br/>
 *Keywords*: Nonlinear Dynamics / Stochastic Dynamics / Nonlinear Oscillation / Random Vibration and Control / Approximated Theory / Machine Learning / Viscoelasticity
 * **Fluid-Structure Interaction Phenomena** <br/>
