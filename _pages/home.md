@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <br/>
-Thank you for visiting my homepage! <br/>
+Thank you for visiting my homepage!
 <br/>
 
 ## Biography
