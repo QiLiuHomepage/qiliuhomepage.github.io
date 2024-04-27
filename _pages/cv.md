@@ -9,18 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * 2016.09--2021.12, D.Sc. in Mathematics, Northwestern Polytechnical University (NPU), China
 * 2012.09--2016.07, B.Sc. in Statistics, Northwestern Polytechnical University (NPU), China
 
-Work Experiences
-======
+## Work Experiences
 * 2023.02--Present, Postdoctoral Researcher, Tokyo Institute of Technology, Japan
   * Supervisor: Prof. Hiroya Nakao
   
-Research Experiences
-======
+## Research Experiences
 * 2019.11--2020.06, Visiting Scholar, Humboldt University of Berlin, Germany
   * Supervisor: Prof. Juergen Kurths (Member of the Academia Europaea, Editor-in-Chief of Chaos)
 * 2018.08--2018.08, Visiting Scholar, Potsdam Institute for Climate Impact Research, Germany
@@ -28,18 +25,15 @@ Research Experiences
 * 2018.04--2018.05, Visiting Scholar, Potsdam Institute for Climate Impact Research, Germany
   * Supervisor: Prof. Juergen Kurths
 
-Research Interests
-======
+## Research Interests
 Applied Mathematics, Nonlinear Dynamics, Stochastic Dynamics, Random Vibration and Control, Bifurcation and Chaos, Approximate Methods, Data-Driven Techniques, Machine Learning
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Honors and Awards
-======
+## Honors and Awards
 * The Outstanding Doctoral Dissertation Award of NPU (Top 3%), April 2024;
 * The **First Prize** of the Science and Technology Award of Shaanxi Society for Vibration Engineering (as the fourth winner), Shaanxi Society for Vibration Engineering, China, 2023;
 * The Sino-German (CSC-DAAD) Postdoc Scholarship (**only 50 people were selected**), 2021;
@@ -57,14 +51,12 @@ Honors and Awards
 * The Second Prize of the Mathematical Modeling Competition of NPU (2 times, Top 5%), 2013, 2014;
 * The Third Prize of the Pure Mathematics Competition of NPU, 2013.
 
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Service
-======
+## Service
 **Journal Reviewer**
 * International Journal of Mechanical Sciences
 * Aerospace Science and Technology
@@ -81,8 +73,7 @@ Service
 * Mathematics
 * Machines
 
-Professional Skills
-======
+## Professional Skills
 **Programming Language**: Matlab, Python, LATEX, C/C++, Fortran, Maple
 
 **Package or Framework**: NumPy, Matplotlib, SciPy, Seaborn, Tensorflow
