@@ -16,7 +16,7 @@ redirect_from:
 *Keywords*: Conceptual Airfoil Models / Aeroelasticity / Flutter Prediction and Suppression / Reliability Design
 
 ## Research Subjects
-* Stochasticity quantification for accurate modeling of mechanical systems.
-* Noise-induced complex dynamic behaviors of mechanical systems.
-* Control design for vibration suppression of mechanical systems.
-* Data-driven parameter estimation and prediction of mechanical systems.
+* Stochasticity quantification for accurate modeling of mechanical systems
+* Noise-induced complex dynamic behaviors of mechanical systems
+* Control design for vibration suppression of mechanical systems
+* Data-driven parameter estimation and prediction of mechanical systems
