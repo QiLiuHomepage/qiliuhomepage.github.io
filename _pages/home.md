@@ -9,7 +9,9 @@ redirect_from:
   - /home.html
 ---
 
-<h3/> Thank you for visiting my homepage! <h3/>
+<br/>
+Thank you for visiting my homepage!
+<br/>
 
 Biography
 =====
