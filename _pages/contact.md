@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Contact
-E-mail: liuqi1780280327@yahoo.com; qiliumath@163.com
+E-mail 1: liuqi1780280327@yahoo.com <br/>
+E-mail 2: qiliumath@163.com
 
 ## Address
 Department of Systems and Control Engineering, <br/>
