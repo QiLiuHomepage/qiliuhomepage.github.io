@@ -19,5 +19,3 @@ I am currently a Postdoctoral Researcher working with [Prof. Hiroya Nakao](http:
 I obtained my Bachelor's degree in Statistics from Northwestern Polytechnical University in 2016. Then, I received my Ph.D. degree in Mathematics, advised by [Prof. Yong Xu](https://teacher.nwpu.edu.cn/xuyong.html), from Northwestern Polytechnical University in 2021.
 
 My research interest includes applied mathematics, nonlinear dynamics, stochastic dynamics, random vibration and control, as well as their applications in various areas of engineering and applied science.
-
-You can find my CV [here](../assets/Curriculum_Vitae.pdf).
