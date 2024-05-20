@@ -20,4 +20,4 @@ I obtained my Bachelor's degree in Statistics from Northwestern Polytechnical Un
 
 My research interest includes applied mathematics, nonlinear dynamics, stochastic dynamics, random vibration and control, as well as their applications in various areas of engineering and applied science.
 
-You can find my CV here: [Qi Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV [here](../assets/Curriculum_Vitae.pdf).
